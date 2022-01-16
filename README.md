@@ -1,3 +1,3 @@
 # devOps-bootcamp-Agile
 
-this is the Agile course tasks
+This is the Agile course tasks
